@@ -1,5 +1,33 @@
 # Getting Started with Create React App
 
+### FRONTEND:
+- User-friendly interface for managing contacts.
+- Form for adding and editing contact details.
+- Display of all contacts in a list format.
+- Delete functionality for removing contacts.
+
+## TECHNOLOGIES USED
+- **Frontend:** React, React Router, Axios
+
+- **Development Tools:** npm, Postman (for API testing)
+
+###FRONTEND SETUP
+Navigate to the frontend directory:
+
+- cd contact-management-frontened 
+ 
+Install the frontend dependencies:
+-  npm install
+ 
+
+Start the frontend server:
+
+- npm start
+
+The frontend application should now be running at http://localhost:3000
+
+########################################################################################
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
